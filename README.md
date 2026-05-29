@@ -1,4 +1,4 @@
-# JDBC Database Management System
+# Product Inventory Management System
 
 A Java application that demonstrates database connectivity and operations using JDBC (Java Database Connectivity) to manage a product inventory system.
 
